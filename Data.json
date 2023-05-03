@@ -1,0 +1,132 @@
+{
+  "clients": [
+    {
+      "nom": "",
+      "requir": "",
+      "typee": "",
+      "numserie": "120",
+      "image": "",
+      "id": 1
+    },
+    {
+      "image": "C:\\Users\\MSI\\Downloads\\tp1Model\\team-1.jpg",
+      "nom": "ahmed",
+      "requir": "sfs",
+      "typee": "sds",
+      "numserie": "120",
+      "id": 3
+    },
+    {
+      "nom": "ahmed",
+      "requir": "gtx 1650",
+      "typee": "horror",
+      "numserie": "120",
+      "image": "images\\cat.gif",
+      "id": 4
+    },
+    {
+      "nom": "dsds",
+      "requir": "sfdf",
+      "typee": "dsfsdf",
+      "numserie": "242",
+      "image": "./public/images/cat.gif",
+      "id": 5
+    },
+    {
+      "image": "add.PNG",
+      "nom": "ahmed",
+      "requir": "gtx 1650",
+      "typee": "horror",
+      "numserie": "120",
+      "id": 6
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
+      "numserie": "2424",
+      "typee": "EZDFD",
+      "requir": "DFDGD",
+      "nom": "DDG",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": " khlif",
+      "prenom": "ahmed",
+      "password": "789maida789",
+      "email": "khlif@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "ahmed",
+      "prenom": "sdsds",
+      "password": "fdfdfdfd",
+      "email": "khlifahmed1@gmail.com"
+    },
+    {
+      "name": "ahmed",
+      "prenom": " مريم ",
+      "password": "khlif",
+      "email": "khlifahmed1@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "ahmed",
+      "prenom": "khlifahmed1@gmail.com",
+      "password": "789maida789",
+      "email": "khlifahmed1@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "ahmed",
+      "prenom": "khlifahmed1@gmail.com",
+      "password": "dffdfd",
+      "email": "khlifahmed1@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "ahmed",
+      "prenom": "khlifahmed1@gmail.com",
+      "password": "ddgdg",
+      "email": "khlifahmed1@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "ahmed",
+      "prenom": "khlifahmed1@gmail.com",
+      "password": "789maida789",
+      "email": "khlifahmed1@gmail.com",
+      "id": 7
+    },
+    {
+      "id": 8
+    }
+  ],
+  "user": [
+    {
+      "name": "Habib Amouri",
+      "password": "habib",
+      "email": "habib@gmail.com",
+      "country": "Sfax",
+      "gender": "male",
+      "adress": "\nWent to Mongi slim sakiet ezzit",
+      "lim": "https://scontent.ftun16-1.fna.fbcdn.net/v/t1.6435-9/207941371_2867184653534124_8042031922528725405_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Bo1X6ifowlYAX_hmf6z&_nc_ht=scontent.ftun16-1.fna&oh=00_AfDYoXcTbi7icXmk2ABEfwd7BLfwNt0AgDTsz46A2Et2IA&oe=6479A60C",
+      "id": 17
+    },
+    {
+      "name": "Wissem Hajbi",
+      "password": "789maida789",
+      "email": "wissemhajbi2002@gmail.com",
+      "country": "Gafsa",
+      "gender": "male",
+      "adress": "97boun sylas",
+      "lim": "https://scontent.ftun16-1.fna.fbcdn.net/v/t39.30808-1/245103320_1094497244287584_7526960493420340712_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-7&_nc_sid=7206a8&_nc_ohc=mbtdMoYu1E4AX8tmD3n&_nc_ht=scontent.ftun16-1.fna&oh=00_AfCL_2PZepf8IBPaYf5sdWPt2m0yhWMduEpD81lcbBLUvw&oe=64589676",
+      "lg": "https://github.com/WissemHajbi",
+      "li": "dfdfdf",
+      "ls": "sssfs",
+      "lf": "https://www.facebook.com/ZinDieeeeeeeeny",
+      "id": 19
+    }
+  ]
+}
